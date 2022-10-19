@@ -61,3 +61,68 @@ body{
     margin-right: 25px;
     margin-top: 10px;
 }
+
+.social-nav {
+    display: flex;
+    justify-content: space-around;
+    transform: rotate(270deg);
+    font-size: 11px;
+    position: absolute;
+    top: 480px;
+    right: 1700px;
+}
+
+.social-ul {
+    display: flex;
+}
+
+.social {
+    margin-right: 55px;
+    text-decoration: none;
+    color: grey;
+}
+
+.ESPORTS {
+    padding-top: 180px;
+}
+
+.lorem {
+    color: grey;
+}
+
+.picture {
+    position: absolute;
+    right: 200px;
+    top: 260px;
+}
+
+.main-text-1 {
+    padding-left: 80px;
+}
+
+.ESPORTS-link {
+    color: #57B8FF;
+}
+
+.lorem {
+    padding-top: 45px;
+}
+
+.lorem-p {
+    padding-top: 10px;
+}
+.buttons {
+    padding-left: 100px;
+    padding-top: 75px;
+}
+
+.View {
+    padding-left: 74px;
+    color: aliceblue;
+}
+
+.Explore {
+    color: aliceblue;
+    background: #57B8FF;
+    padding: 20px;
+}
