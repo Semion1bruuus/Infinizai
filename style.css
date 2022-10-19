@@ -3,7 +3,7 @@
     margin: 0;
     border: 0;
     box-sizing: border-box;
-    font-family: Helvetica;
+    font-family: 'Orbitron', sans-serif;
 }
 
 a{
@@ -21,7 +21,7 @@ img{
 body{
     height: 100%;
     line-height: 1;
-    background-color: #E5E000;
+    background: linear-gradient(to right, black 51.5%, #57B8FF 51.5%);
 }
 
 .wrapper{
@@ -32,6 +32,13 @@ body{
 .header {
     display: flex;
     justify-content: space-between;
+    padding-top: 38px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.home {
+    padding-top: 15px;
 }
 
 .home-ul {
@@ -44,4 +51,13 @@ body{
 
 .home-li a {
     color: white;
+}
+
+.button-link {
+    background: none;
+}
+
+.basket-img {
+    margin-right: 25px;
+    margin-top: 10px;
 }
