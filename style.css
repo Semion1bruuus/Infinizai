@@ -28,3 +28,20 @@ body{
     min-height: 100%;
     overflow: hidden;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-ul {
+    display: flex;
+}
+
+.home-li {
+    margin-right: 60px;
+}
+
+.home-li a {
+    color: white;
+}
