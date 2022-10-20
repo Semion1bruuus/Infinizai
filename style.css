@@ -111,18 +111,13 @@ body{
 .lorem-p {
     padding-top: 10px;
 }
-.buttons {
+
+.explore-1 {
     padding-left: 100px;
-    padding-top: 75px;
+    padding-top: 55px;
 }
 
-.View {
+.view {
     padding-left: 74px;
-    color: aliceblue;
-}
-
-.Explore {
-    color: aliceblue;
-    background: #57B8FF;
-    padding: 20px;
+    padding-top: 28px;
 }
